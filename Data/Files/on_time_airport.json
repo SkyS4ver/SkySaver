@@ -1,0 +1,14 @@
+{
+    "data": {
+        "id": "CDG20250201",
+        "probability": "0.928",
+        "result": "0.82961810",
+        "subType": "on-time",
+        "type": "prediction"
+    },
+    "meta": {
+        "links": {
+            "self": "https://test.api.amadeus.com/v1/airport/predictions/on-time?airportCode=CDG&date=2025-02-01"
+        }
+    }
+}
