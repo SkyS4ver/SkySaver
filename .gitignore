@@ -26,5 +26,5 @@ dist-ssr
 .env
 
 *.txt
-
+!requirements.txt
 /dist
